@@ -4,12 +4,9 @@ import com.daniella.aprendendo_spring.infrastructure.entity.Usuario;
 import com.daniella.aprendendo_spring.infrastructure.exceptions.ConflictException;
 import com.daniella.aprendendo_spring.infrastructure.exceptions.ResourceNotFoundException;
 import com.daniella.aprendendo_spring.infrastructure.repository.UsuarioRepository;
-import io.jsonwebtoken.security.Password;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
-
-import java.nio.file.ReadOnlyFileSystemException;
 
 @Service
 @RequiredArgsConstructor
