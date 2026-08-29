@@ -249,4 +249,4 @@ Projeto em desenvolvimento, com foco em aprendizado prático de Spring Boot, seg
 
 ## Autora
 
-Desenvolvido por Daniella como parte da jornada de formação em desenvolvimento backend Java.
+Desenvolvido por Daniella como parte da jornada de formação em desenvolvimento backend Java na Javanauta Academy.
